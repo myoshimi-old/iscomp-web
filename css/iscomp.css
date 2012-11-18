@@ -1,0 +1,74 @@
+#container{
+	border: solid 1px;
+	width: 750px;
+	margin: 0 auto;
+}
+
+#header{
+	height: 250px;
+}
+
+#contents{
+	border: 1px solid;
+}
+
+#primary{
+	width: auto;
+	float: left;
+}
+
+#secondary{
+	width: 200px;
+	border: 1px solid; 
+	float: right;
+}
+
+#footer{
+	clear: both;
+	height: 80px;
+}
+
+
+#iscomp-logo{
+	float: left;
+	width: 500px;
+	height: 210px;
+}
+
+#lab_select{
+	float: right;
+	width: 250px;
+	height: 210px;
+}
+
+#lab_select ul{
+	list-style: none;
+	margin: 0 auto;
+	padding-left: 0px;
+}
+
+#lab_select ul li{
+	width: 250px;
+	height: 70px;
+}
+
+.hover:hover{
+	background-color:#000;
+}
+
+#menu_box{
+}
+
+#menu_box ul{
+	list-style: none;
+	width: 750px;
+	height: 40px;
+	padding: 0px;
+	margin: 0px;
+}
+
+#menu_box ul li{
+	width: 150px;
+	float: left;
+}
+

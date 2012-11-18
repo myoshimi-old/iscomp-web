@@ -1,0 +1,41 @@
+#container{
+	border: solid 1px;
+	width: 750px;
+	margin: 0 auto;
+}
+
+#header{
+	border: solid 1px;
+	height: 250px;
+}
+
+#contents{
+	border: 1px solid;
+}
+
+#primary{
+	width: auto;
+	float: left;
+}
+
+#secondary{
+	width: 200px;
+	border: 1px solid; 
+	float: right;
+}
+
+#footer{
+	clear: both;
+	border: 1px solid;
+	height: 80px;
+}
+
+ul.menu_box{
+	list-style: none;
+}
+
+ul.menu_box li{
+	width: 120px;
+	float: left;
+}
+
